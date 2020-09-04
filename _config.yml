@@ -13,14 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Eduardo's website
+title: Eduardo Lira's Career
 email: edulira@me.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I've been searching for a software development internship lately
+  I've been searching for a software development internship lately. When writing my CV, I found that all templates had a 'website' field. Instead of deleting that entry, I will just make my own website. This website is hosted by GitHub, created by Jekyll using the minima theme.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: @edward_the_bird
+instagram_username:  edward_the_bird
 github_username:  Edward2k
+linkedin:  https://www.linkedin.com/in/eduardo-l-204107133/
+
 
 # Build settings
 markdown: kramdown
