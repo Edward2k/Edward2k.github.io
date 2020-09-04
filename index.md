@@ -7,7 +7,7 @@ title: "Home Page"
 permalink: /
 
 ---
-# Welcome to Eduardo's Website :d
+### Welcome to Eduardo's Website :d
 
 I am a 3rd year honours Computer Science BSc student at the Vrije Universiteit Amsterdam. I have worked on several projects throughot my bachelor such as the NXP cup, Teaching Assistant positions for countless classes and more!
 
